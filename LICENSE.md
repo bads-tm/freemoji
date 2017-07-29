@@ -5,6 +5,9 @@
 for more information see: README.md (https://github.com/bads-tm/freemoji/blob/master/README.md)
 
 ## IMAGE SPECIFIC LICENSE (for most of freemojis, see their version license or readme for more information) :
+For short, you can use in a commercial (paid) product as long as I (or any other member of freemoji) is credited.
+If you use in commercial (paid) product without crediting freemoji members or sell as your own is not something nice you're doing and should stop that before legal stuff happens...
+
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
