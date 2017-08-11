@@ -1,12 +1,14 @@
-## freemoji project
-### the license-less, free (as in freedom!) without corporate b*llshyt [Images CC BY-NC-SA]
+## Freemoji Project License
+You're OK as long as you:
+SOFTWARE/PROGRAMS : Credit team members in easily user acessible place (example: settings -> about) or Using Freemoji's github.com/bads-tm/freemoji" Version %VersionOfFreemoji%
+OS-Wide (Using in whole Operating System) : Credit team members in easily user acessible place (example: settings -> about) or Using Freemoji's github.com/bads-tm/freemoji" Version %VersionOfFreemoji%
+VIDEO : When It's used, mention freemoji project something like "Using Freemoji's github.com/bads-tm/freemoji" Version %VersionOfFreemoji%
+IMAGE : When It's used, mention freemoji project something like "Using Freemoji's github.com/bads-tm/freemoji" Version %VersionOfFreemoji%
 
-## Code Specific License: In order to get these freemojis on your website, you would need to add one line of specific html code
-for more information see: README.md (https://github.com/bads-tm/freemoji/blob/master/README.md)
+For short, you can use in a commercial (paid) product as long as team of freemoji is credited.
+If you use in commercial (paid) product without crediting freemoji members or sell as your own, not nice things might happen
 
-## IMAGE SPECIFIC LICENSE (for most of freemojis, see their version license or readme for more information) :
-For short, you can use in a commercial (paid) product as long as I (or any other member of freemoji) is credited.
-If you use in commercial (paid) product without crediting freemoji members or sell as your own is not something nice you're doing and should stop that before legal stuff happens...
+Alternative License for most of Freemoji (NOTE: Read Version notes for best):
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
@@ -104,3 +106,4 @@ For the avoidance of doubt, this Public License does not, and shall not be inter
 To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
 No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+
